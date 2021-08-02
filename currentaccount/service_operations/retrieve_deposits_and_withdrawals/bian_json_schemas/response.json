@@ -1,0 +1,36 @@
+{
+  "depositsAndWithdrawalsInstanceRecord": {
+    "depositType": "string",
+    "withdrawalType": "string",
+    "accountLimitBreachResponse": "string",
+    "depositTransaction": {
+      "depositTransactionSourceReference": "00000",
+      "depositTransactionDepositType": "string",
+      "depositTransactionDescription": "string",
+      "depositTransactionAmount": "USD 100",
+      "depositTransactionDate": "09-22-2018"
+    },
+    "withdrawalTransaction": {
+      "withdrawalTransactionSourceReference": "00001",
+      "withdrawalTransactionWithdrawalType": "string",
+      "withdrawalTransactionDescription": "string",
+      "withdrawalTransactionAmount": "USD 250",
+      "withdrawalTransactionDate": "09-22-2018"
+    }
+  },
+  "depositsAndWithdrawalsRetrieveActionTaskReference": "DAWRATR757335",
+  "depositsAndWithdrawalsRetrieveActionTaskRecord": {},
+  "depositsAndWithdrawalsRetrieveActionResponse": "string",
+  "depositsAndWithdrawalsInstanceReport": {
+    "depositsAndWithdrawalsInstanceReportRecord": {},
+    "depositsAndWithdrawalsInstanceReportType": "string",
+    "depositsAndWithdrawalsInstanceReportParameters": "string",
+    "depositsAndWithdrawalsInstanceReport": {}
+  },
+  "depositsAndWithdrawalsInstanceAnalysis": {
+    "depositsAndWithdrawalsInstanceAnalysisRecord": {},
+    "depositsAndWithdrawalsInstanceAnalysisReportType": "string",
+    "depositsAndWithdrawalsInstanceAnalysisParameters": "string",
+    "depositsAndWithdrawalsInstanceAnalysisReport": {}
+  }
+}
