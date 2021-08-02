@@ -1,0 +1,23 @@
+{
+  "paymentExecutionServicingSessionReference": "string",
+  "paymentExecutionProcedureInitiateActionRecord": {},
+  "paymentExecutionProcedureInstanceStatus": "string",
+  "paymentExecutionProcedureInstanceRecord": {
+    "paymentTransactionInitiatorReference": "string",
+    "paymentOrderReference": "string",
+    "payerReference": "string",
+    "payerBankReference": "string",
+    "payerProductInstanceReference": "string",
+    "payeeReference": "string",
+    "payeeBankReference": "string",
+    "payeeProductInstanceReference": "string",
+    "amount": "string",
+    "currency": "string",
+    "dateType": {
+      "date": "09-22-2018"
+    },
+    "washAccountReference": "string",
+    "intermediaryAccountReference": "string",
+    "paymentMechanismType": "string"
+  }
+}
