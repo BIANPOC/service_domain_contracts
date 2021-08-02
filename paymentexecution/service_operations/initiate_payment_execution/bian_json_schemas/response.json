@@ -1,0 +1,15 @@
+{
+  "paymentExecutionProcedureInstanceReference": "PEPIR757675",
+  "paymentExecutionProcedureInitiateActionReference": "PEPIAR790241",
+  "paymentExecutionProcedureInitiateActionRecord": {},
+  "paymentExecutionProcedureInstanceStatus": "string",
+  "paymentExecutionProcedureInstanceRecord": {
+    "aCHAccessServiceSessionReference": "742193",
+    "aCHAccessSchedule": "string",
+    "correspondentServiceSessionReference": "719308",
+    "correspondentServiceAccessSchedule": "string",
+    "dateType": {
+      "date": "09-22-2018"
+    }
+  }
+}
